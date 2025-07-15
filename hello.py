@@ -44,4 +44,4 @@ elif current_language == "zh_CN":
 elif current_language == "ru_RU":
     msg = "Привет, мир!"
 
-print(msg)
+print(msg) 
